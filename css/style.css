@@ -964,7 +964,7 @@ ul#ui-id-1 {
     margin-bottom: 20px;
 }
 .brand .row {
-    height: 120px;
+    padding-bottom: 20px;
     border-top: 1px solid grey;
     border-bottom: 1px solid grey;
     text-align: center;

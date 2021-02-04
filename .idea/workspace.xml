@@ -28,7 +28,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -40,11 +40,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FPT APTECH\New-e-Project\images" />
       <recent name="D:\FPT APTECH\Khong-Ten-Team---Eproject\images" />
       <recent name="D:\FPT APTECH\Khong-Ten-Team---Eproject\js" />
       <recent name="D:\FPT APTECH\Project_Real\js" />
       <recent name="D:\FPT APTECH\Project_Real\images" />
-      <recent name="D:\FPT APTECH\Project_Real" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +64,7 @@
       <workItem from="1612186741351" duration="11457000" />
       <workItem from="1612277118639" duration="953000" />
       <workItem from="1612306133293" duration="20127000" />
-      <workItem from="1612432220554" duration="1294000" />
+      <workItem from="1612432220554" duration="2384000" />
     </task>
     <servers />
   </component>
