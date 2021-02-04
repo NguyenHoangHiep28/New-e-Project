@@ -28,7 +28,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -64,6 +64,7 @@
       <workItem from="1612186741351" duration="11457000" />
       <workItem from="1612277118639" duration="953000" />
       <workItem from="1612306133293" duration="20127000" />
+      <workItem from="1612432220554" duration="593000" />
     </task>
     <servers />
   </component>

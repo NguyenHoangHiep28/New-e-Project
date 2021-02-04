@@ -253,7 +253,7 @@ ul#ui-id-1 {
     width: 120px;
     height: 40px;
     line-height: 40px;
-    margin-left: -5px;
+    /*margin-left: -5px;*/
     text-align: center;
     position: relative;
 }
